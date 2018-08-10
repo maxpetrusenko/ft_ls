@@ -7,7 +7,7 @@ FT_LS is a 42 Project that aims to mimic libc ls function
 1) -l, -R, -a, -r, -t.
 
 * Bonus:
-1) -c, -1, -d.
+1) -G, -1, -d.
 
 ## Sources
 * http://man7.org/linux/man-pages/man1/ls.1.html
