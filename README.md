@@ -1,13 +1,14 @@
-# FT_LS Project
+# FT_LS Implementation
 
-## Project Overview
-FT_LS is a 42 Project that aims to mimic libc ls function
+## Project
+FT_LS is a 42 Project that mimics libc ls function
 
 * Basic functions:
 1) -l, -R, -a, -r, -t.
 
 * Bonus:
-1) -G, -1, -d.
+1) -G, -1, -d, -S, -s
+2) Management of columns and ACL management.
 
 ## Sources
 * http://man7.org/linux/man-pages/man1/ls.1.html
